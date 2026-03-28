@@ -1,6 +1,7 @@
 # DrawBluff v2
 
-A pass-and-play drawing game with dual AI judges powered by Gemini 2.5 Flash.
+A pass-and-play drawing game with dual AI judges powered by Gemini 2.5 Flash. 
+Team Members : Prashanth Sreenivasan, Vaibhav rouduri
 
 ## How It Works
 
